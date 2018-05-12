@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2634
     wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42965#The-Shadow-of-Life
 gutenberg_issued: '2013-06-17'
 gutenberg_type: Text
 identifiers:
